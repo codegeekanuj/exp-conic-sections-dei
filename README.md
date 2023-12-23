@@ -21,4 +21,4 @@ Fill a brief description of this experiment here
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | <b> Anuj Tripathi | Faculty of Enfineering | Civil Engineering | Dayalbagh Educational Institute | <b> atripati1253@gmail.com
-2 | <b> Shyamendra Tomar | Faculty of Engineering | Agriculture Engineering | Dayalbagh Educational Institute | <b> shyamendratomar736@gmail.com
+2 | <b> Shyamendra Singh | Faculty of Engineering | Agriculture Engineering | Dayalbagh Educational Institute | <b> shyamendratomar736@gmail.com
